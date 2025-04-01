@@ -84,7 +84,7 @@ Ensure you have Python installed (version 3.7 or later recommended). You can che
 python --version
 Install Dependencies
 Clone the repository and install the required dependencies:
-git clone https://github.com/your-repo/dna-file-converter.git
+git clone 
 cd dna-file-converter
 pip install -r requirements.txt
 
