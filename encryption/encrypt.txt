@@ -1,0 +1,16 @@
+Usage 
+
+1text.py
+coverts a text file to DNA sequence
+
+2encryp.py 
+Encrypts the DNA sequence data and generates a key
+
+3decrypt.py 
+dencrypts the file which was created at the previous step back to DNA sequence 
+
+4dna.py
+coverts a DNA sequence to original file
+
+
+first run the 1text.py, then 2encryp.py then 3decrypt.py and finally 4dna.py
