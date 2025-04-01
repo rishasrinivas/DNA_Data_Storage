@@ -32,8 +32,7 @@ Ensure you have Python installed (version 3.7 or later recommended). You can che
 python --version
 Install Dependencies
 Clone the repository and install the required dependencies:
-git clone https://github.com/your-repo/dna-file-converter.git
-cd dna-file-converter
+git clone 
 pip install -r requirements.txt
 
 Run the Application
@@ -47,7 +46,7 @@ View and copy the DNA sequence output.
 Download the DNA sequence and metadata.
 
 
-//////////////////////////////////////////////////////////////////////
+
 
 Explanation of app2.py
 
